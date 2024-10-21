@@ -88,7 +88,7 @@
             <mxPoint x="207.01754385964915" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-SrFhzklI3_z7_42w4xo-45" value="工作流模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="-SrFhzklI3_z7_42w4xo-49" vertex="1">
+        <mxCell id="-SrFhzklI3_z7_42w4xo-45" value="任务流模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="-SrFhzklI3_z7_42w4xo-49" vertex="1">
           <mxGeometry x="251.00877192982458" y="16" width="93.15789473684211" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tTXryV7e1G7Z4Q3oJ_ys-9" value="服务端调度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="tTXryV7e1G7Z4Q3oJ_ys-81">
